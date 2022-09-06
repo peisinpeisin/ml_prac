@@ -1,4 +1,3 @@
+This is a practice of RSNA 2022 Cervical Spine Fracture Detection.
 
-# Haikus for Codespaces
-
-This is a quick node project template for demoing Codespaces. It is based off of the [Azure node sample](https://github.com/Azure-Samples/nodejs-docs-hello-world). It's great!!!
+All the input data comes from https://www.kaggle.com/competitions/rsna-2022-cervical-spine-fracture-detection.
